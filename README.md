@@ -4,7 +4,7 @@ Product executive, technologist, and builder at heart.
 
 I have spent the last 20 years leading technical product teams across enterprise B2B SaaS, with the last decade deeply embedded in **cybersecurity, AppSec, and high-throughput telemetry platforms**.
 
-Grounded in computer science, I operate at the intersection of executive product strategy, engineering craft, and applied AI. I do not just write strategy documents; I build, prototype, and ship software that technical practitioners genuinely rely on.
+As we are moving into a new era of technology, with AI changing everything faster than we can keep up - it's a good time to re-evaluate how we as product builders can operate in this new world.  It's an exciting time to have the opportunity to learn new things, complete tasks that would have been impossible to do 12 months ago by ourselves, and try and understand the direction of travel and seek new opportunities.
 
 ---
 
