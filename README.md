@@ -21,9 +21,10 @@ I am an active practitioner of modern, AI-augmented software development and pro
 
 ---
 
-### 🛠️ Featured Open Source Project
+### 🛠️ Featured Open Source Projects
 
 * **[NI Tech Radar](https://github.com/mark14/ni-tech-radar):** An air-gapped, zero-dependency intelligence dashboard and ATS scraper mapping 117+ indigenous tech companies, scaleups, and live vacancies across Northern Ireland. Built vanilla, fast, and 100% open source.
+* **[Vite Agent Review Plugin](https://github.com/markhamill/vite-plugin-agent-review):** In-browser visual review and editorial tool for building websites with AI coding agents.  Point, click, edit copy, leave design notes, and let your agent update the code.
 
 ---
 
