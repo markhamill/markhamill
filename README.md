@@ -25,6 +25,7 @@ I am an active practitioner of modern, AI-augmented software development and pro
 
 * **[NI Tech Radar](https://ni-tech-radar.vercel.app/):** An air-gapped, zero-dependency intelligence dashboard and ATS scraper mapping 117+ indigenous tech companies, scaleups, and live vacancies across Northern Ireland. Built vanilla, fast, and 100% open source.
 * **[Vite Plugin Agent Review](https://github.com/markhamill/vite-plugin-agent-review):** In-browser visual review and editorial tool for building websites with AI coding agents.  Point, click, edit copy, leave design notes, and let your agent update the code.
+* **[Agent Sandpit](https://github.com/markhamill/agent-sandpit):** Docker setup to allow for Claude/AGY type sessions to be run safely from a local system, but tied within a micro VM virtual system with access to specific mounted filesystems and settings.
 
 ---
 
